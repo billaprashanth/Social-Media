@@ -11,7 +11,6 @@ export default function Addpost() {
         <img src={CurrentUserData.map(user=>(user.ProfieImage))} alt=""/>
         <input type="text" placeholder="What's on your mind?" />
         <button type="submit" className='btn btn-primary'>Post</button>
-
     </div>
 
     <div className="post-categories">

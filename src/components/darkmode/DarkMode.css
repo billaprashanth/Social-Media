@@ -1,10 +1,9 @@
 .dark-mode-icon {
-    transition: .3s;
+    transition: .1s;
 }
 
 .dark-mode-icon :hover{
 transform: scale(1.2);
-
 }
 
 
